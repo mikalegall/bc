@@ -123,15 +123,19 @@ The current case will be hashed by mathematical [sha256sum](https://emn178.githu
 * Signatures:
 <br/>
 Seller signes digitally previously mentioned hash and buyer's public key. Buyer verify seller's signature and earlier happened signatures.
+
 * Blockchain:
 <br/>
 By signing the previous transactions it will form a link in the chain which contains blocks of 256 bit long hashes
+
 * Proof of work:
 <br/>
 After signing the next case should that mathematical sha256sum function output start with zeros (eg. 007etc). The more zeros required at the beginning, the longer it takes to form a next valid link in chain. Who ever demonstrates that "gibberish-nonsense" input (which met the criteria with required zeros) proves at the same time that this actor has worked to solve the set target. 
+
 * Concensus:
 <br/>
 Nodes in peer-to-peer network receives someone's sent proof of work and then the nodes calculates all links in blockchain and if everything is valid. If there are branches on that same chain then the longest chain with most links is valid.  
+
 * Incentive:
 <br/>
 Reward which will be granted for actor whos proof of work has been validated. That happens to issue brand new bitcoins for actor who's proof of work has been validated.
