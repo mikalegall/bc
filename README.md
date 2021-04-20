@@ -326,6 +326,6 @@ Factors of <b>187</b>(N) are 11(q) ja 17(p). Those should be minus with one:
 
 REMAINDER OF THE MODULO OPERATION
 <br />
-<img alt="Can't be anonymous" src="src/rsa.jpg" />
+<img alt="RSA: remainder of the modulo operation" src="src/rsa.JPG" />
 <br />
 <br />
