@@ -129,11 +129,11 @@ By signing the previous transactions it will form a link in the chain which cont
 * Proof of work: 
 After signing the next case should that mathematical sha256sum function output start with zeros (eg. 007etc). The more zeros required at the beginning, the longer it takes to form a next valid link in chain. Who ever demonstrates that "gibberish-nonsense" input (which met the criteria with required zeros) proves at the same time that this actor has worked to solve the set target. 
 
-* Concensus: 
-Nodes in peer-to-peer network receives someone's sent proof of work and then the nodes calculates all links in blockchain and if everything is valid. If there are branches on that same chain then the longest chain with most links is valid.  
+* Consensus: 
+When someone sends proof of work to peer-to-peer network and part of the nodes calculates all links in blockchain by verifying it to be valid then the consensus has been made. If there are branches on that same chain then the longest chain with most links is valid.  
 
 * Incentive: 
-Reward which will be granted for actor whos proof of work has been validated. That happens to issue brand new bitcoins for actor who's proof of work has been validated.
+Reward which will be granted for actor whos proof of work has been validated. That happens by issuing brand new bitcoins for actor who's proof of work has been validated.
 
 <br />
 <br />
@@ -289,5 +289,43 @@ https://emn178.github.io/online-tools/sha256.html
 input: bitcoin
 
 output: 6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b
+<br />
+<br />
+
+### [H3a (Summarize . . . )](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h3-public-key-encryption-and-pgp): Schneier 2015: [Applied Cryptography](https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01) Chapter 1: Foundations
+* In modern times digitally encrypted messages usually also fulfill the requirements of authentication (who encrypted message), integrity like consistency (the message has not changed between encryption and decryption) and nonrepudiation (once encrypted message has been delivered available the one who has made it cannot deny that s/he did it)
+* On "key" (large number) based cryptography algorithms the algorithm itself can be published becouse the game changer is the hidden (secret) large number (key)
+* In asymmetric algorithms like "public-key algorithm" the key used for encryption is different from the key used for decryption. And even when you know the encryption key (public key) you can not calculate decryption key (secret private key) out of it in any reasonable amount of time  
+* Rivest, Shamir, Adleman (RSA)) is the most popular public-key algorithm which can be used to digital signatures
+<br />
+<br />
+
+### [H3b & H3c (Public key example: Encrypt and sign a message)](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h3-public-key-encryption-and-pgp): Singh, Simon. [The code book](https://books.google.fi/books?hl=fi&id=skt7TrLK5uYC&dq=editions%3AcR-CAJ7P0pIC&focus=searchwithinvolume&q=prime): the science of secrecy from ancient Egypt to quantum cryptography ([in Finnish](https://haku.helmet.fi/iii/encore/record/C__Rb1515358))
+
+Alice need to change confidentially information with Bob. First Bob pics some [prime numbers](https://en.wikipedia.org/wiki/Prime_number) e.g. 7, 11, 17 which can be used in RSA public key system as follows:
+
+<font color="lightblue"><i>7</i></font>, 11(q) ja 17(p)
+
+11 x 17 = <b>187</b>
+
+Bob's public-keyring key-pair is <font color="lightblue"><i>7</i></font>(e) and <b>187</b>(N). That is the key (public pair) what Alice uses to encrypt her message.
+
+Bob's so called secret key-ring pair (private key) is 11 and 17. The first prime number <font color="lightblue"><i>7</i></font> was already published with [product](https://en.wikipedia.org/wiki/Product_(mathematics)) of private key. Because these three key components (7, 11, 17) are all prime numbers it has been so far that not yet any algorithm has invented to reverse product <b>187</b> back to its factors (multiplicand and multiplier). 
+
+So that Bob can decrypt Alice's message he has to fabricate decryption key:
+
+Factors of <b>187</b>(N) are 11(q) ja 17(p). Those should be minus with one:
+
+10 and 16
+
+10 x 16 = 160
+
+160 + 1 = 161(G)
+
+161 ÷ 7(e) = decryption key <b><font color="red">23</font></b>(d)
+
+REMAINDER OF THE MODULO OPERATION
+<br />
+<img alt="Can't be anonymous" src="src/rsa.jpg" />
 <br />
 <br />
