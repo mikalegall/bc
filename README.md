@@ -377,7 +377,7 @@ The encrypted message is attached in email and looks like this
 <br />
 <br />
 
-### [H4a (Install HashCat](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): 
+### [H4a (Install HashCat)](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): 
 
         sudo apt update; sudo apt install hashcat && hashcat -V
 
@@ -385,7 +385,7 @@ The encrypted message is attached in email and looks like this
 <br />
 <br />
 
-### [H4b [Brute force 21232f297a57a5a743894a0e4a801fc3](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): Use "[RockYou](https://www.kaggle.com/wjburns/common-password-list-rockyoutxt)" dictionary
+### [H4b (Brute force 21232f297a57a5a743894a0e4a801fc3)](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): Use "[RockYou](https://www.kaggle.com/wjburns/common-password-list-rockyoutxt)" dictionary
 
         sudo apt update;  sudo apt install hashid && hashid --version
 
@@ -451,7 +451,7 @@ Word "admin" produces hash "21232f297a57a5a743894a0e4a801fc3" by [MD5](https://e
 <br />
 <br />
 
-### [H4c [Brute force f2477a144dff4f216ab81f2ac3e3207d](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): Hint, it is a Windows related hash
+### [H4c (Brute force f2477a144dff4f216ab81f2ac3e3207d)](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): Hint, it is a Windows related hash
 
 Windows uses Active Directory so web search can be helpful:
 <br />
