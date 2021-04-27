@@ -331,13 +331,12 @@ Factors of <b>187</b>(N) are 11(q) ja 17(p). Those should be minus with one:
 
 <img alt="RSA: remainder of the modulo operation" src="src/rsa.JPG" />
 <br />
-<br />
 
 ### Pretty Good Privacy (PGP) in practice:
 Download [Thunderbird](https://www.thunderbird.net/en-US/)-email software (and ProtonMail [Bridge](https://protonmail.com/bridge/thunderbird) if needed). After 
 [configuration](https://support.mozilla.org/en-US/kb/openpgp-thunderbird-howto-and-faq#w_i-have-never-used-openpgp-with-thunderbird-before-how-do-i-setup-openpgp) there is two [Elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) (ECC) key files:
 
-<img alt="Thunderbird configuration" src="src/Thunderbird.jpg" />
+<img alt="Thunderbird configuration" src="src/thunderbird.jpg" />
 <br />
 <br />
 
@@ -353,8 +352,7 @@ alice-example-(0xEF46BB2E0691BB72)-secret.asc
         xYYEYIcVdhYJKwYBBAHaRw8BAQdAqK8HLeHYPCj3ZddWciHzQBSfrOd5WcbVkFxU3+vbti3+CQMI25jdS8KcUTbEuGKZUrEHPmd3HHqONfiSGR0BEYoTDncHUgouwK3a91LVbwrYMXue+74lZTEwDxP1tYESKv8cNg62YMOLTI7Oq09ab/RxJc0kTWlrYSBMZSBHYWxsIDxsYXJlLmxlZ2FsbEBnbWFpbC5jb20+wpEEExYIADkWIQQGIksT5DWqI6ynlwTvRrsuBpG7cgUCYIcVdgUJAeEzgAIbAwULCQgHAgYVCAkKCwIFFgIDAQAACgkQ70a7LgaRu3LSXQEAtbekEJF5CH5ntxRZ76JmrCdn0//8OMWw8kBOT7rxiHUBANkBqXnhfsw311up+rW/RIH+wpRt+wIgFgHah77pof8Kx4sEYIcVdhIKKwYBBAGXVQEFAQEHQHRYQ1dH6KCa6a11ortBHRsGfPmr2ZWnW6rWR6IWtaooAwEIB/4JAwjFKejiDFGIitQeTHZoTV5cZtSy1oaIJ7vUwhl9AXM5OV+KSbyX/l/2TDkBKj0rb4J8tWQy391MuO2d1VpVoUbnd5MjBy3t15sMNmpQwGLIwn4EGBYIACYWIQQGIksT5DWqI6ynlwTvRrsuBpG7cgUCYIcVdgUJAeEzgAIbDAAKCRDvRrsuBpG7ctZPAP9jvX+oCDWDrLLJf9VRqOqR/Kql/hr/eRADOROrahrvxAEAtWoyokHZhCtwrbZhdvSaXQmVYlBcXQzxgb0mo9Ci7ww==k9Xn
         -----END PGP PRIVATE KEY BLOCK-----
 
-Alice uses Bob's public key to encrypt the email.
-Bob uses old school [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) (RSA 4096) which is longer key.
+Alice uses Bob's public key to encrypt the message. Bob uses old school [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) (RSA 4096) which is longer key.
 
 bob-example-(0x56EDB674B0788552)-public.asc
 
