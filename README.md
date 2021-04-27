@@ -374,3 +374,145 @@ The encrypted message is attached in email and looks like this
         -----BEGIN PGP MESSAGE-----
         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ITpc
         -----END PGP MESSAGE-----
+<br />
+<br />
+
+### [H4a (Install HashCat](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): 
+
+        sudo apt update; sudo apt install hashcat && hashcat -V
+
+(installation guide [in Finnish to Windows](https://rakenne.wordpress.com/2020/10/29/linux-tuo-windows-kayttajan-morko/#hashcat) machine)
+<br />
+<br />
+
+### [H4b [Brute force 21232f297a57a5a743894a0e4a801fc3](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): Use "[RockYou](https://www.kaggle.com/wjburns/common-password-list-rockyoutxt)" dictionary
+
+        sudo apt update;  sudo apt install hashid && hashid --version
+
+        hashid 21232f297a57a5a743894a0e4a801fc3 -m
+        
+        #Analyzing '21232f297a57a5a743894a0e4a801fc3'
+        #[+] MD2 
+        #[+] MD5 [Hashcat Mode: 0]
+        #[+] MD4 [Hashcat Mode: 900]
+        #[+] Double MD5 [Hashcat Mode: 2600]
+        #[+] LM [Hashcat Mode: 3000]
+        #[+] RIPEMD-128 
+        #[+] Haval-128 
+        #[+] Tiger-128 
+        #[+] Skein-256(128) 
+        #[+] Skein-512(128) 
+        #[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600]
+        #[+] Skype [Hashcat Mode: 23]
+        #[+] Snefru-128 
+        #[+] NTLM [Hashcat Mode: 1000]
+        #[+] Domain Cached Credentials [Hashcat Mode: 1100]
+        #[+] Domain Cached Credentials 2 [Hashcat Mode: 2100]
+        #[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+        #[+] RAdmin v2.x [Hashcat Mode: 9900]
+
+HashId software guesses that algorithm which produces hashes like "21232f297a57a5a743894a0e4a801fc3" could be MD5 (Hashcat Mode 0 = Hash type 0)
+
+        hashcat --hash-type=0 21232f297a57a5a743894a0e4a801fc3 /media/sf_jaettu_kansio/rockyou.txt
+
+        #Alternative
+        hashcat -m 0 21232f297a57a5a743894a0e4a801fc3 /media/sf_jaettu_kansio/rockyou.txt --force -o murrettuVastaus --show
+
+
+        #* Filename..: /media/sf_jaettu_kansio/rockyou.txt
+        #* Passwords.: 14344392
+        #* Bytes.....: 139921507
+        #* Keyspace..: 14344385
+        #* Runtime...: 7 secs
+
+        #21232f297a57a5a743894a0e4a801fc3:admin           
+
+        #Session..........: hashcat
+        #Status...........: Cracked
+        #Hash.Name........: MD5
+        #Hash.Target......: 21232f297a57a5a743894a0e4a801fc3
+        #Time.Started.....: Tue Apr 27 15:41:21 2021 (0 secs)
+        #Time.Estimated...: Tue Apr 27 15:41:21 2021 (0 secs)
+        #Guess.Base.......: File (/media/sf_jaettu_kansio/rockyou.txt)
+        #Guess.Queue......: 1/1 (100.00%)
+        #Speed.#1.........:    80816 H/s (1.27ms) @ Accel:1024 Loops:1 Thr:1 Vec:8
+        #Recovered........: 1/1 (100.00%) Digests
+        #Progress.........: 20480/14344385 (0.14%)
+        #Rejected.........: 0/20480 (0.00%)
+        #Restore.Point....: 18432/14344385 (0.13%)
+        #Restore.Sub.#1...: Salt:0 Amplifier:0-1 Iteration:0-1
+        #Candidates.#1....: sweetgurl -> michelle4
+
+        #Started: Tue Apr 27 15:40:01 2021
+        #Stopped: Tue Apr 27 15:41:23 2021
+
+Word "admin" produces hash "21232f297a57a5a743894a0e4a801fc3" by [MD5](https://emn178.github.io/online-tools/md5.html) algorithm.
+
+<br />
+<br />
+
+### [H4c [Brute force f2477a144dff4f216ab81f2ac3e3207d](https://terokarvinen.com/2021/trust-to-blockchain-spring-2021/#h4-cracking-hashes): Hint, it is a Windows related hash
+
+Windows uses Active Directory so web search can be helpful:
+<br />
+[hashcat mode active directory](https://duckduckgo.com/?q=hashcat+mode+active+directory&atb=v246-1&ia=web&iai=r1-1&page=1&sexp=%7B%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%2C%22videxp%22%3A%22a%22%2C%22ebayexp%22%3A%22a%22%7D)
+<br />
+--> Crack Active Directory User [NTLM](https://hashcat.net/forum/thread-8860-page-2.html) hash
+
+        hashid f2477a144dff4f216ab81f2ac3e3207d -m
+        #Analyzing 'f2477a144dff4f216ab81f2ac3e3207d'
+        #[+] MD2 
+        #[+] MD5 [Hashcat Mode: 0]
+        #[+] MD4 [Hashcat Mode: 900]
+        #[+] Double MD5 [Hashcat Mode: 2600]
+        #[+] LM [Hashcat Mode: 3000]
+        #[+] RIPEMD-128 
+        #[+] Haval-128 
+        #[+] Tiger-128 
+        #[+] Skein-256(128) 
+        #[+] Skein-512(128) 
+        #[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600]
+        #[+] Skype [Hashcat Mode: 23]
+        #[+] Snefru-128 
+        #[+] NTLM [Hashcat Mode: 1000]
+        #[+] Domain Cached Credentials [Hashcat Mode: 1100]
+        #[+] Domain Cached Credentials 2 [Hashcat Mode: 2100]
+        #[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+        #[+] RAdmin v2.x [Hashcat Mode: 9900]
+
+Hashcat Mode 1000 = Hash type 1000
+
+        hashcat --hash-type=1000 f2477a144dff4f216ab81f2ac3e3207d /media/sf_jaettu_kansio/rockyou.txt
+
+        #Alternative
+        hashcat -m 1000 f2477a144dff4f216ab81f2ac3e3207d /media/sf_jaettu_kansio/rockyou.txt --force -o murrettuVastaus --show
+
+
+        #* Filename..: /media/sf_jaettu_kansio/rockyou.txt
+        #* Passwords.: 14344385
+        #* Bytes.....: 139921507
+        #* Keyspace..: 14344385
+
+        f2477a144dff4f216ab81f2ac3e3207d:monkey          
+                                       
+        #Session..........: hashcat
+        #Status...........: Cracked
+        #Hash.Name........: NTLM
+        #Hash.Target......: f2477a144dff4f216ab81f2ac3e3207d
+        #Time.Started.....: Tue Apr 27 16:40:34 2021 (0 secs)
+        #Time.Estimated...: Tue Apr 27 16:40:34 2021 (0 secs)
+        #Guess.Base.......: File (/media/sf_jaettu_kansio/rockyou.txt)
+        #Guess.Queue......: 1/1 (100.00%)
+        #Speed.#1.........:   318.0 kH/s (0.48ms) @ Accel:1024 Loops:1 Thr:1 Vec:8
+        #Recovered........: 1/1 (100.00%) Digests
+        #Progress.........: 2048/14344385 (0.01%)
+        #Rejected.........: 0/2048 (0.00%)
+        #Restore.Point....: 0/14344385 (0.00%)
+        #Restore.Sub.#1...: Salt:0 Amplifier:0-1 Iteration:0-1
+        #Candidates.#1....: 123456 -> lovers1
+
+        #Started: Tue Apr 27 16:39:54 2021
+        #Stopped: Tue Apr 27 16:40:36 2021
+
+
+Word "monkey" produces hash "f2477a144dff4f216ab81f2ac3e3207d" by [NTLM](https://codebeautify.org/ntlm-hash-generator) algorithm.
